@@ -1,6 +1,6 @@
-LexiMaster® Vocabulary Suite
+LexiMaster®© Vocabulary Suite
 
-LexiMaster® ist die hochpräzise Lösung für strukturiertes Wortschatz-Training – entwickelt für Lernende und Teams, die sich mit bloßem „Karteikarten-Wischen“ nicht zufriedengeben.
+LexiMaster®© ist die hochpräzise Lösung für strukturiertes Wortschatz-Training – entwickelt für Lernende und Teams, die sich mit bloßem „Karteikarten-Wischen“ nicht zufriedengeben.
 
 Kernfunktionen
 Adaptive Spaced-Repetition-Engine
@@ -30,4 +30,4 @@ Support & Service
 
 Individuelle Onboarding-Workshops, die den Namen verdienen – nicht bloß ein zehn­minütiges Webinar, bei dem man nebenbei den Kaffee umrührt.
 
-LexiMaster® – weil professionelles Vokabel­training keinen Platz für halbe Sachen hat. Wenn Sie Wortschatz­beherrschung ernst nehmen, tun Sie sich einen Gefallen und greifen nicht zur erst­besten Gratis-App mit quietsch­bunter Oberfläche.
+LexiMaster®© – weil professionelles Vokabel­training keinen Platz für halbe Sachen hat. Wenn Sie Wortschatz­beherrschung ernst nehmen, tun Sie sich einen Gefallen und greifen nicht zur erst­besten Gratis-App mit quietsch­bunter Oberfläche.
