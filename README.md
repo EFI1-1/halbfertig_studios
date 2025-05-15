@@ -16,7 +16,7 @@ Progress Intelligence Dashboard
 Visualisiert Lernfortschritt, Fehlercluster und Langzeit-Retention in klaren Grafiken. Wer Zahlen liebt, freut sich; wer sonst nur ein „gut gemacht :)“ erwartet, wird angenehm überrascht sein.
 
 Sicherheit & Compliance
-End-to-End-Verschlüsselung sämtlicher Nutzerdaten nach ISO 27001.
+End-to-End-Verschlüsselung (ISO 27001), damit Ihre Lernstatistiken nicht öffentlich kursieren – peinlich genug, wenn schon Sie selbst sie lesen müssen.
 
 Hosting in zertifizierten EU-Rechenzentren – falls Sie Ihre Lernstatistiken nicht eines Tages in einem ominösen „Public-Bucket“ entdecken möchten.
 
